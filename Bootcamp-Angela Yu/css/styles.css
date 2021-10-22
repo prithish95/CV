@@ -1,0 +1,17 @@
+body {
+    background-color:powderblue;
+}
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+    
+}
+img{
+    border-style: outset;
+    color: antiquewhite;
+}
+h1,h3{
+    color: #66BFBF;
+}
